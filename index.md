@@ -75,6 +75,7 @@
   <li>來信請寄 harvirtue@gmail.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
+
 ##### [職缺名稱]：Andoid Developer #####
 
 ##### [職務說明] #####
@@ -108,6 +109,7 @@
   <li>來信請寄 harvirtue@gmail.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
+
 ##### [職缺名稱]：UI/UX 設計師 #####
 
 ##### [職務說明] #####
