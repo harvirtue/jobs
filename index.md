@@ -24,8 +24,12 @@
   <li>熱衷參與技術相關論壇或社群活動</li>
 </ol>
 ##### 工作待遇
-
-
+<ul>
+  <li>待遇：40k-80k * 12</li>
+  <li>獎金：每季依照KPI頒發獎金</li>
+  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請除履歷基本資料外，請提供github連結</li>
+</ul>
 ##### [職缺名稱]：Web Backend Developer
 ##### [職務說明]
 ##### 必備條件
@@ -52,8 +56,12 @@
   <li>熱衷參與技術相關論壇或社群活動</li>
 </ol>
 ##### 工作待遇
-
-
+<ul>
+  <li>待遇：60k-90k * 12</li>
+  <li>獎金：每季依照KPI頒發獎金</li>
+  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請除履歷基本資料外，請提供github連結</li>
+</ul>
 
 
 
@@ -62,8 +70,12 @@
 ##### 必備條件
 ##### 加分條件
 ##### 工作待遇
-
-
+<ul>
+  <li>待遇：45k-80k * 12</li>
+  <li>獎金：每季依照KPI頒發獎金</li>
+  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請除履歷基本資料外，請提供github連結</li>
+</ul>
 
 
 ##### [職缺名稱]：IOS Developer
@@ -71,6 +83,12 @@
 ##### 必備條件
 ##### 加分條件
 ##### 工作待遇
+<ul>
+  <li>待遇：50k-80k * 12</li>
+  <li>獎金：每季依照KPI頒發獎金</li>
+  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請除履歷基本資料外，請提供github連結</li>
+</ul>
 
 
 ##### [職缺名稱]：UI/UX 設計師
