@@ -1,5 +1,6 @@
 ## About us
 ### 新零售團隊招募成員
+##### [公司介紹]
 ##### [工作地點]
 ##### [工作環境]
 
@@ -62,9 +63,6 @@
   <li>來信請寄 harvirtue@gmail.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
-
-
-
 ##### [職缺名稱]：Andoid Developer
 ##### [職務說明]
 ##### 必備條件
@@ -76,8 +74,6 @@
   <li>來信請寄 harvirtue@gmail.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
-
-
 ##### [職缺名稱]：IOS Developer
 ##### [職務說明]
 ##### 必備條件
@@ -89,8 +85,6 @@
   <li>來信請寄 harvirtue@gmail.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
-
-
 ##### [職缺名稱]：UI/UX 設計師
 ##### [職務說明]
 ##### 必備條件
