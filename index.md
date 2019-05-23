@@ -7,6 +7,7 @@
 ##### [職缺名稱]：Web Front-End Developer
 ##### [職務說明]
 ##### 必備條件
+
 <ol>
   <li>心理素質強</li>
   <li>良好的溝通、表達、理解能力</li>
@@ -30,13 +31,13 @@
 ##### 工作待遇 #####
 
 <ul>
-  <li>待遇：40k-80k * 12</li>
+  <li>待遇：50k-80k * 12</li>
   <li>獎金：每季依照KPI頒發獎金</li>
   <li>來信請寄 harvirtue@gmail.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
-##### [職缺名稱]：Web Backend Developer #####
+##### [職缺名稱]：Web Back-End Developer #####
 
 ##### [職務說明] #####
 
@@ -48,7 +49,6 @@
   <li>遵循團隊開發風格</li>
   <li>2 年以上開發工作經驗</li>
   <li>熟悉 Node.js</li>
-  <li>熟悉 Golang</li>
   <li>熟悉 Express/Koa</li>
   <li>具有 Unit Testing 經驗</li>
   <li>具有 Git 相關版控工具使用經驗</li>
@@ -81,8 +81,26 @@
 ##### [職務說明] #####
 
 ##### 必備條件 #####
+<ol>
+  <li>心理素質強</li>
+  <li>良好的溝通、表達、理解能力</li>
+  <li>能夠做各種嘗試來解決問題</li>
+  <li>遵循團隊開發風格</li>
+  <li>熟 Kotlin，且有專案實務經驗</li>
+  <li>熟 Java 和 Android SDK / UI Guideline、物件導向程式開發。</li>
+  <li>重視架構架構</li>
+  <li>具有 Git 相關版控工具使用經驗</li>
+  <li>具有串接第三方服務或API的經驗</li>
+  
+</ol>  
 
 ##### 加分條件 #####
+<ol>
+  <li>曾經參與大型專案</li>
+  <li>曾經有實際 Google Play 上架經驗（專案參與過或⾃⼰上架皆可），知道上架流程、可能遇上的問題和處理方式。 </li>
+  <li>熱衷參與技術相關論壇或社群活動</li>
+  <li>熟悉且會撰寫單元測試</li>
+</ol>
 
 ##### 工作待遇 #####
 
@@ -99,7 +117,25 @@
 
 ##### 必備條件 #####
 
+<ol>
+  <li>心理素質強</li>
+  <li>良好的溝通、表達、理解能力</li>
+  <li>能夠做各種嘗試來解決問題</li>
+  <li>遵循團隊開發風格</li>
+  <li>熟悉Swift和Objective C語言。</li>
+  <li>具有 Unit Testing 經驗</li>
+  <li>具有 Git 相關版控工具使用經驗</li>
+</ol>  
+
 ##### 加分條件 #####
+
+<ol>
+  <li>曾經參與大型專案</li>
+  <li>曾經有實際 App store 上架經驗（專案參與過或⾃⼰上架皆可），知道上架流程、可能遇上的問題和處理方式。 </li>
+  <li>熱衷參與技術相關論壇或社群活動</li>
+  <li>熟悉且會撰寫單元測試</li>
+</ol>
+
 
 ##### 工作待遇 #####
 
@@ -110,13 +146,36 @@
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
-##### [職缺名稱]：UI/UX 設計師 #####
+##### [職缺名稱]：UI/UX Designer #####
 
 ##### [職務說明] #####
 
 ##### 必備條件 #####
 
+<ol>
+  <li>心理素質強</li>
+  <li>良好的溝通、表達、理解能力</li>
+  <li>能夠做各種嘗試來解決問題</li>
+  <li>UI/UX 設計經驗2年以上</li>
+  <li>精通Sketch、Illustrator、Photoshop等，設計繪圖工具 </li>
+  <li>熟悉iOS、Android、Web的 UI/UX 設計</li>
+  <li>具備 wireframe、prototype 的設計經驗</li>
+  <li>熟悉至少一種 UI flow tool</li>
+</ol> 
+
 ##### 加分條件 #####
 
+<ol>
+  <li>做過 User Research</li>
+  <li>熟悉互動設計、人機互動(HCI) </li>
+  <li>在乎 Usablility</li>
+</ol> 
+
 ##### 工作待遇 #####
+<ul>
+  <li>待遇：40k-80k * 12</li>
+  <li>獎金：每季依照KPI頒發獎金</li>
+  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請除履歷基本資料外，請提供相關作品連結</li>
+</ul>
 
