@@ -124,7 +124,7 @@
   <li>良好的溝通、表達、理解能力</li>
   <li>能夠做各種嘗試來解決問題</li>
   <li>遵循團隊開發風格</li>
-  <li>熟悉Swift和Objective C語言。</li>
+  <li>熟悉Swift和Objective C語言</li>
   <li>具有 Git 相關版控工具使用經驗</li>
 </ol>  
 
