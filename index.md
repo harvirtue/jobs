@@ -33,9 +33,9 @@
 ##### 工作待遇 #####
 
 <ul>
-  <li>待遇：50k-80k * 12</li>
+  <li>待遇：45k-80k * 12</li>
   <li>獎金：每季依照KPI頒發獎金</li>
-  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請寄 service@harvirtue.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
@@ -72,9 +72,9 @@
 ##### 工作待遇 #####
 
 <ul>
-  <li>待遇：60k-90k * 12</li>
+  <li>待遇：50k-80k * 12</li>
   <li>獎金：每季依照KPI頒發獎金</li>
-  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請寄 service@harvirtue.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
@@ -109,7 +109,7 @@
 <ul>
   <li>待遇：45k-80k * 12</li>
   <li>獎金：每季依照KPI頒發獎金</li>
-  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請寄 service@harvirtue.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
@@ -143,7 +143,7 @@
 <ul>
   <li>待遇：50k-80k * 12</li>
   <li>獎金：每季依照KPI頒發獎金</li>
-  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請寄 service@harvirtue.com</li>
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
@@ -174,9 +174,9 @@
 
 ##### 工作待遇 #####
 <ul>
-  <li>待遇：40k-80k * 12</li>
+  <li>待遇：35k-80k * 12</li>
   <li>獎金：每季依照KPI頒發獎金</li>
-  <li>來信請寄 harvirtue@gmail.com</li>
+  <li>來信請寄 service@harvirtue.com</li>
   <li>來信請除履歷基本資料外，請提供相關作品連結</li>
 </ul>
 
