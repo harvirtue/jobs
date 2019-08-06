@@ -147,4 +147,35 @@
   <li>來信請除履歷基本資料外，請提供github連結</li>
 </ul>
 
+##### [職缺名稱]：UI/UX Designer #####	
 
+ ##### [職務說明] #####	
+
+ ##### 必備條件 #####	
+
+ <ol>	
+  <li>心理素質強</li>	
+  <li>良好的溝通、表達、理解能力</li>	
+  <li>能夠做各種嘗試來解決問題</li>	
+  <li>UI/UX 設計經驗2年以上</li>	
+  <li>精通Sketch、Illustrator、Photoshop等，設計繪圖工具 </li>	
+  <li>熟悉iOS、Android、Web的 UI/UX 設計</li>	
+  <li>具備 wireframe、prototype 的設計經驗</li>	
+  <li>熟悉至少一種 UI flow tool</li>	
+</ol> 	
+
+ ##### 加分條件 #####	
+
+ <ol>	
+  <li>做過 User Research</li>	
+  <li>熟悉互動設計、人機互動(HCI) </li>	
+  <li>在乎 Usablility</li>	
+</ol> 	
+
+ ##### 工作待遇 #####	
+<ul>	
+  <li>待遇：35k-80k * 12</li>	
+  <li>獎金：每季依照KPI頒發獎金</li>	
+  <li>來信請寄 service@harvirtue.com</li>	
+  <li>來信請除履歷基本資料外，請提供相關作品連結</li>	
+</ul>
